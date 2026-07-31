@@ -7,7 +7,7 @@
 
 ---
 
-## Business Scenario
+## Business Scenario:
 
 You have been hired as a **Data Analyst** for a supermarket chain called **FreshChoice Mart**, operating multiple stores across Kenya.
 

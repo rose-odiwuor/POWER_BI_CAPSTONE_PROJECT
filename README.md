@@ -1,6 +1,6 @@
 # POWER BI CAPSTONE PROJECT
 
-## Retail Sales & Profitability Analysis.
+## Retail Sales & Profitability Analysis
 
 **Dataset:** FreshChoice_PowerBI.xlsx  
 **Role:** Business Intelligence / Data Analyst
